@@ -1,0 +1,29 @@
+﻿{
+	"version": 1651005318,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/btn_1play-sheet0.png",
+		"images/Фонmenu.png",
+		"images/Фонgamestart.png",
+		"images/btn_2options-sheet0.png",
+		"images/btn_4quit-sheet0.png",
+		"images/btn_newgame-sheet0.png",
+		"images/btn_continue-sheet0.png",
+		"images/btn_back-sheet0.png",
+		"images/btn_3autors-sheet0.png",
+		"images/Фонlvl1.png",
+		"images/Кошкодевочка.png",
+		"images/msgwind.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"glitch.mp4",
+		"newgame.mp4"
+	]
+}
