@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1655714112,
+	"version": 1655755519,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,7 @@
 		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
 		"images/tiledbackground5.png",
+		"images/tiledbackground6.png",
 		"images/tplink-sheet0.png",
 		"images/options-sheet0.png",
 		"images/galochka1-sheet0.png",
@@ -40,7 +41,19 @@
 		"images/speedtest-sheet0.png",
 		"images/knopkago-sheet0.png",
 		"images/sprite4-sheet0.png",
-		"images/galochka2-sheet0.png",
+		"images/sprite4-sheet1.png",
+		"images/sprite4-sheet2.png",
+		"images/sprite4-sheet3.png",
+		"images/sprite4-sheet4.png",
+		"images/sprite4-sheet5.png",
+		"images/sprite4-sheet6.png",
+		"images/sprite4-sheet7.png",
+		"images/sprite4-sheet8.png",
+		"images/sprite4-sheet9.png",
+		"images/sprite4-sheet10.png",
+		"images/sprite4-sheet11.png",
+		"images/sprite4-sheet12.png",
+		"images/sprite4-sheet13.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -49,6 +62,7 @@
 		"loading-logo.png",
 		"speedtest.mp4",
 		"glitch.mp4",
-		"newgame.mp4"
+		"newgame.mp4",
+		"adapter.js"
 	]
 }
