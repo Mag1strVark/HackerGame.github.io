@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1655755519,
+	"version": 1655887150,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -54,6 +54,12 @@
 		"images/sprite4-sheet11.png",
 		"images/sprite4-sheet12.png",
 		"images/sprite4-sheet13.png",
+		"images/fade-sheet0.png",
+		"images/tiledbackground8.png",
+		"media/mant - subconscious.m4a",
+		"media/mant - subconscious.ogg",
+		"media/geek_music_-_mr_robot_-_main_theme_50884382.m4a",
+		"media/geek_music_-_mr_robot_-_main_theme_50884382.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
